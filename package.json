@@ -1,0 +1,9 @@
+{
+  "name": "smart-library-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper to redirect to the correct project directory",
+  "scripts": {
+    "dev": "echo \"Running Smart Library v2.0 Move to smart_library_v2 and run npm run dev\" && cd smart_library_v2 && npm run dev",
+    "v1": "echo \"Running PHP version - Ensure Apache is started in XAMPP and visit http://localhost/smart_library/login.php\""
+  }
+}

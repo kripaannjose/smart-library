@@ -1,0 +1,14 @@
+# Original project (XAMPP legacy)
+*.log
+*.tmp
+report.docx
+
+# Modern v2.0
+smart_library_v2/client/node_modules/
+smart_library_v2/server/node_modules/
+smart_library_v2/client/dist/
+smart_library_v2/server/.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
